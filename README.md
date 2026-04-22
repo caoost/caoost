@@ -1,4 +1,4 @@
-### Aidan Reid | Senior Backend & AI Engineer 💻
+### Aidan Reid | Senior Backend & AI Engineer 
 
  **Location:** Germany
  **Contact:** workai699@gmail.com | **Telegram:** [@caoost](https://t.me/caoost)
