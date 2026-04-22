@@ -1,16 +1,15 @@
-## Hi there 👋
+### Aidan Reid | Senior Backend & AI Engineer 💻
 
-<!--
-**caoost/caoost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Location:** Germany
+✉️ **Contact:** workai699@gmail.com | **Telegram:** [@caoost](https://t.me/caoost)
 
-Here are some ideas to get you started:
+I specialize in architecting high-throughput asynchronous backend systems and integrating enterprise-grade Artificial Intelligence (LLM/RAG) pipelines. Focused on scalable infrastructure, robust automation, and clean, maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ⚙️ Core Technical Stack:
+* **Backend Engineering:** Python (3.10+), FastAPI, AsyncIO, aiohttp
+* **Database Architecture:** PostgreSQL (asyncpg), Redis, Qdrant (Vector DB)
+* **AI & Machine Learning:** OpenAI API, LangChain, RAG Pipelines
+* **Infrastructure & DevOps:** Docker, Nginx, Git, CI/CD pipelines
+
+---
+*"Building robust systems that solve complex business logic without compromising on latency."*
